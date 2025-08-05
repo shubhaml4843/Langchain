@@ -31,5 +31,5 @@ while True :
   if user_input.lower() in["exit, quit", "q", "exit()"]:
     print("Exiting the chatbot. Goodbye!")
     break
-  respoance =conversatoion.predict(input =user_input)
+  respoance =conversation.predict(input =user_input)
   print("chatbot:" , respoance)
