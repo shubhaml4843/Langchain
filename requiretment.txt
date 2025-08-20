@@ -1,0 +1,12 @@
+langchain_openai 
+langchain_core
+python-dotenv
+langchain_community
+uvicorn
+bs4
+pypdf
+chromadb
+faiss-cpu
+docx2txt
+TextLoader
+Cohere
